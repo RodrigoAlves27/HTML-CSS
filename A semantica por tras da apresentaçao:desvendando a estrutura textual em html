@@ -3,19 +3,19 @@
 
 Páginas analisadas:
 
-1. G1 - Notícia (https://g1.globo.com)
+1. G1 - Notícia 
 
 
-2. Wikipedia - Página de artigo (https://pt.wikipedia.org)
+2. Wikipedia - Página de artigo 
 
 
-3. Blog pessoal (exemplo: https://medium.com)
+3. Blog pessoal 
 
 
 
 Elementos HTML e sua função semântica:
 
-<h1> e <h2>: Usados como títulos e subtítulos. Ajudam na organização do conteúdo. Ex: <h1> para título principal da matéria, <h2> para seções internas.
+<h1> ao <h>: Usados como títulos e subtítulos. Ajudam na organização do conteúdo. Ex: <h1> para título principal da matéria, <h2> para seções internas.
 
 <strong>: Dá ênfase forte ao texto com importância semântica. Ex: usado para destacar alertas em um artigo.
 
@@ -31,8 +31,6 @@ Exemplo de comparação:
 <strong> destaca semanticamente, enquanto font-weight: bold; no CSS apenas muda o estilo visual, sem significado.
 
 
-
----
 
 2. Explorando a Organização com Listas (Individual)
 
@@ -59,7 +57,6 @@ Explicações:
 Vantagem das listas: Estruturam visualmente o conteúdo, melhorando leitura e entendimento.
 
 
----
 
 3. A Expressão de Citações (Individual)
 
