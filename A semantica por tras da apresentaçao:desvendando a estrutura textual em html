@@ -1,1 +1,80 @@
 
+1. Análise da Estrutura Textual de Páginas Web (Individual)
+
+Páginas analisadas:
+
+1. G1 - Notícia (https://g1.globo.com)
+
+
+2. Wikipedia - Página de artigo (https://pt.wikipedia.org)
+
+
+3. Blog pessoal (exemplo: https://medium.com)
+
+
+
+Elementos HTML e sua função semântica:
+
+<h1> e <h2>: Usados como títulos e subtítulos. Ajudam na organização do conteúdo. Ex: <h1> para título principal da matéria, <h2> para seções internas.
+
+<strong>: Dá ênfase forte ao texto com importância semântica. Ex: usado para destacar alertas em um artigo.
+
+<em>: Ênfase leve. Ex: usado em palavras com sentido subjetivo, como "possivelmente" ou "infelizmente".
+
+<br>: Quebra de linha. Ex: usado em endereços ou poemas.
+
+<p>: Define parágrafos. Muito comum em blocos de texto.
+
+
+Exemplo de comparação:
+
+<strong> destaca semanticamente, enquanto font-weight: bold; no CSS apenas muda o estilo visual, sem significado.
+
+
+
+---
+
+2. Explorando a Organização com Listas (Individual)
+
+Elementos de lista encontrados:
+
+<ul>: Lista não ordenada (ex: tópicos no menu de navegação).
+
+<ol>: Lista ordenada (ex: passo a passo em tutoriais).
+
+<li>: Itens das listas acima.
+
+<dl>, <dt>, <dd>: Lista de definição (ex: glossário no Wikipedia).
+
+
+Explicações:
+
+<ul>: Usada quando a ordem não importa. Ex: lista de categorias.
+
+<ol>: Usada quando a ordem importa. Ex: instruções de receita.
+
+<dl>: Ideal para glossários ou termos técnicos com descrição.
+
+
+Vantagem das listas: Estruturam visualmente o conteúdo, melhorando leitura e entendimento.
+
+
+---
+
+3. A Expressão de Citações (Individual)
+
+Elementos de citação encontrados:
+
+<blockquote>: Usado em artigos acadêmicos para citar trechos longos, geralmente com destaque visual.
+
+<q>: Usado em notícias para citações curtas dentro de parágrafos.
+
+
+Diferença semântica:
+
+<blockquote>: Indica uma citação em bloco (parágrafo inteiro).
+
+<q>: Indica uma citação curta, embutida no texto.
+
+
+Importância: Esses elementos separam visualmente e semanticamente o conteúdo original do conteúdo citado, facilitando a identificação da fonte.
